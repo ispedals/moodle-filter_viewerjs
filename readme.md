@@ -6,6 +6,8 @@ creating a Moodle `core_media_player` renderer and using that to change links in
 
 This plugin has only been tested on Moodle 2.8.
 
+[Download here](https://github.com/ispedals/moodle-filter_viewerjs/releases/latest).
+
 ##Installation
 
 Note that [ViewerJS](http://viewerjs.org) is licensed AGPLv3. To ease the licensing and distribution requirements of this filter, the
