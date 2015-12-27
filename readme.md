@@ -16,6 +16,7 @@ ViewerJS library must be installed separately, instead of it being bundled with 
    Moodle installation. If successful, `/filter/viewerjs/lib/viewerjs` should contain files such as `index.html`.
 3. Create a text file named `thirdpartylibs.xml` with the following content
 
+```
 <?xml version="1.0"?>
 	<libraries>
 		<library>
@@ -26,7 +27,7 @@ ViewerJS library must be installed separately, instead of it being bundled with 
 			<licenseversion>3.0</licenseversion>
 		</library>
 	</libraries>
-
+````
 
  replacing `VERSION_NUMBER` with the version of ViewerJS that was downloaded
 4. Using a web browser, go to `/admin` to complete installation
